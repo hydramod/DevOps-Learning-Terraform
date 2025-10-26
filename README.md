@@ -1,4 +1,4 @@
-# Terraform AWS Project
+DevOps Learning Terraform
 
 Managing AWS resources with a small, module-first project structure. The repo demonstrates provider setup, variables, modules, planning and applying changes, and importing existing infrastructure into state.
 
