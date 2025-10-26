@@ -118,7 +118,7 @@ Instead of a separate CLI import, add at root:
 ```hcl
 import {
   to = module.ec2.aws_instance.import
-  id = "i-0123456789abcdef0"
+  id = "<instance_id>"
 }
 ```
 
